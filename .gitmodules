@@ -4,3 +4,6 @@
 [submodule "blog/themes/etch"]
 	path = blog/themes/etch
 	url = git@github.com:LukasJoswiak/etch.git
+[submodule "themes/etch"]
+	path = themes/etch
+	url = git@github.com:LukasJoswiak/etch.git
