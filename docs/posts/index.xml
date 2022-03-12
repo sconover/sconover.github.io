@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://sconover.github.io/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://sconover.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 11 Mar 2022 16:47:09 +0100</lastBuildDate>
     
-	<atom:link href="http://sconover.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sconover.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
