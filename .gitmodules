@@ -1,0 +1,6 @@
+[submodule "blog/themes/lanyon"]
+	path = blog/themes/lanyon
+	url = git@github.com:tummychow/lanyon-hugo.git
+[submodule "blog/themes/etch"]
+	path = blog/themes/etch
+	url = git@github.com:LukasJoswiak/etch.git
