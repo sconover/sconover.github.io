@@ -3,3 +3,21 @@ languageCode = 'en-us'
 title = 'Steve Conover'
 theme = 'etch'
 publishDir = 'docs'
+
+[params]
+  copyright = "Copyright © 2022 Steve Conover"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
